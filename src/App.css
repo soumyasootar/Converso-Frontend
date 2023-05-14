@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Carlito&display=swap');
+
+.App{
+    height:100vh;
+    display:flex;
+    background-image:url("./pexels-jakub-novacek-924824 (1).jpg");
+    /* background-image:url("./pexels-steve-johnson-1509534.jpg"); */
+    background-size:cover;
+    /* background-position:center */
+    
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: rgba(136, 136, 136, 0.281);
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
